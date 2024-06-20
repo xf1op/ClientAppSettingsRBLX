@@ -25,6 +25,8 @@
  "DFIntCSGv2LodsToGenerate": "0",
  "DFIntDataSenderMaxBandwidthBps": "999999999",
  "DFIntDataSenderRate": "1",
+ "DFIntSimCSG3DcdMaxContacts": "0",
+ "DFIntSimCSG3DCDMaxNumConvexHulls": "0", 
  "DFIntMaxActiveAnimationTracks": "100",
  "DFIntMaxFrameBufferSize": "4",
  "DFIntMeshNLoDs": "1",
