@@ -38,7 +38,6 @@
  "DFIntTaskSchedulerTargetFps": "0",
  "DFIntTerrainLodActive": "1",
  "DFIntTextureCompositorActiveJobs": "1",
- "DFIntTimestepArbiterThresholdCFLThou": "300",
  "DFIntVideoMaxNumberOfVideosPlaying": "0",
  "DFIntVoiceChatVolumeThousandths": "1750",
  "DFStringAnalyticsEventStreamUrlEndpoint": "",
