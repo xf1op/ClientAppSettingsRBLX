@@ -84,7 +84,7 @@
  "FFlagLuaAppGamesPagePreloadingDisabled": "True",
  "FFlagMSRefactor5": "False",
  "FFlagNewLightAttenuation": "True",
- "FFlagRemapAnimationR6ToR15Rig": "True",
+ "FFlagRemapAnimationR6ToR15Rig": "False",
  "FFlagRenderUseShaderFlags": "False",
  "FFlagSimDynamicMeshMetrics": "False",
  "FFlagUserShowGuiHideToggles": "True",
