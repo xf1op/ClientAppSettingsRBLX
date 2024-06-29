@@ -1,4 +1,5 @@
 {
+"DFIntDefaultDepth": "0",
 "DFFlagDynamicTextures": "False",
 "FFlagHandleAltEnterFullscreenManually": "False",
 "DFFlagCleanOldCSGData": "True",
@@ -11,7 +12,7 @@
 "DFIntCanHideGuiGroupId": "34295829",
 "DFIntCodecMaxIncomingPackets": "-1",
 "DFIntCrashUploadToBacktracePercentage": "0",
-"DFIntCSGLevelOfDetailSwitchingDistance": "0",
+"DFIntCSGLevelOfDetailSwitchingDistance": "80",
 "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
 "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
 "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
