@@ -5,7 +5,6 @@
 "DFFlagDebugDisableLogServiceExecuteScript": "True",
 "DFFlagDebugDisableThrottleBools": "True",
 "DFFlagDisableCheckGenerateBroadphasePairs": "True",
-"DFFlagDisableDPIScale": "True",
 "DFFlagEnablePerfDataCoreCategoryTimersCollection2": "False", "DFFlagEnablePerfDataCoreTimersCollection2": "False", "DFFlagEnablePerfDataSubsystemTimersCollection2": "False", "DFFlagEnablePerfRenderStatsCollection2": "False", "DFFlagEnablePerfStatsCollection3": "False", "DFIntSimConstraintDataCollectionRate3": "0", "FFlagCollectionServiceTagTracking": "False",
 "DFFlagRakNetUseSlidingWindow4": "True",
 "DFFlagTextureQualityOverrideEnabled": "True",
