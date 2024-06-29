@@ -141,6 +141,7 @@
 "FLogSurfaceController": "0",
 "FLogUGCGameController": "0",
 "FLogVIPTeleport": "0",
+"FLogVoiceChatLogs": "0",
 "FLogWarning": "0",
 "FLogWebRTC": "0",
 "FLogWindowsLuaApp": "0",
