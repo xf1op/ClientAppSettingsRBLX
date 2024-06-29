@@ -6,7 +6,6 @@
 "DFFlagDebugDisableThrottleBools": "True",
 "DFFlagDebugRenderForceTechnologyVoxel": "True", "DFFlagDebugSkipMeshVoxelizer": "True", "DFFlagDebugVoxelizerDisableSIMD": "True", "DFFlagTerrainVoxelChannelsLS": "False", "DFIntFRMVoxelizerBudgetWhileLoading": "1", "DFIntSimModelLodVoxelNumPerAxis": "0", "FFlagTerrainVoxelChannel": "False", "FFlagTerrainVoxelChannelNewApi": "False", "FIntCSGVoxelizerFadeRadius": "10",
 "DFFlagDisableCheckGenerateBroadphasePairs": "True",
-"DFFlagDisableDPIScale": "True",
 "DFFlagEnablePerfDataCoreCategoryTimersCollection2": "False", "DFFlagEnablePerfDataCoreTimersCollection2": "False", "DFFlagEnablePerfDataSubsystemTimersCollection2": "False", "DFFlagEnablePerfRenderStatsCollection2": "False", "DFFlagEnablePerfStatsCollection3": "False", "DFIntSimConstraintDataCollectionRate3": "0", "FFlagCollectionServiceTagTracking": "False",
 "DFFlagRakNetUseSlidingWindow4": "True",
 "DFIntCanHideGuiGroupId": "34295829",
