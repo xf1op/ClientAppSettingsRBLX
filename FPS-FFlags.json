@@ -102,6 +102,7 @@
 "FIntDefaultMeshCacheSizeMB": "256",
 "FIntFRMMaxGrassDistance": "0",
 "FIntFRMMinGrassDistance": "0",
+"FIntFRMRecomputeDistanceFrameDelay": "480",
 "FIntFullscreenTitleBarTriggerDelayMillis": "2000",
 "FIntPercentReportingLeaveGameAnalytics": "0", "FFlagEnableChromeAnalytics": "False", "DFIntCoreScriptsAnalyticsHundredthsPercentage": "0", "FFlagEnableLuaVoiceChatAnalyticsV2": "False", "FFlagLuaVoiceChatAnalyticsBanMessageV3": "False", "FFlagLuaVoiceChatAnalyticsUseCounterV2": "False", "FFlagLuaVoiceChatAnalyticsUseEventsV2": "False",
 "FIntRenderApiUsageMetricsHundredthsPercent": "0",
