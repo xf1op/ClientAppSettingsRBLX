@@ -64,7 +64,6 @@
 "FFlagGraphicsTextureCopy": "True",
 "FFlagLuaAppDisableVideo": "True",
 "FFlagLuaAppGamesPagePreloadingDisabled": "True",
-"FFlagNewLightAttenuation": "True",
 "FFlagRemapAnimationR6ToR15Rig": "False",
 "FFlagSimDynamicMeshMetrics": "False",
 "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
