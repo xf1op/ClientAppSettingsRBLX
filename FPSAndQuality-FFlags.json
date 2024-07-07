@@ -70,7 +70,7 @@
 "FIntRuntimeMaxNumOfThreads": "2400",
 "FIntTaskSchedulerAutoThreadLimit": "10",
 "FIntTaskSchedulerThreadMin": "4",
-"FFlagDebugDisplayUnthemedInstances": "True"
+"FFlagDebugDisplayUnthemedInstances": "True",
 "FFlagEnableInGameMenuChrome": "False",
 "FFlagChromeBetaFeature": "False",
 "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0",
