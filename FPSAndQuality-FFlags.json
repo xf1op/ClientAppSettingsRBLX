@@ -70,7 +70,9 @@
 "FIntRuntimeMaxNumOfThreads": "2400",
 "FIntTaskSchedulerAutoThreadLimit": "10",
 "FIntTaskSchedulerThreadMin": "4",
-"FFlagEnableInGameMenuChrome": "True",
+"FFlagDebugDisplayUnthemedInstances": "True"
+"FFlagEnableInGameMenuChrome": "False",
+"FFlagChromeBetaFeature": "False",
 "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0",
 "FStringVoiceBetaBadgeLearnMoreLink": "https://eaglercraft.com/mc/1.8.8/",
 "DFLogHttpTrace": "0",
