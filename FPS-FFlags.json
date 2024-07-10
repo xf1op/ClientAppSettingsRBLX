@@ -8,6 +8,7 @@
 "DFFlagDebugDisableThrottleBools": "True",
 "DFFlagDebugRenderForceTechnologyVoxel": "True",
 "DFFlagDebugSkipMeshVoxelizer": "True",
+"FIntTerrainArraySliceSize": "0",
 "DFFlagDebugVoxelizerDisableSIMD": "True",
 "DFFlagDisableCheckGenerateBroadphasePairs": "True",
 "DFFlagDisableDownloadBandwidthTracker": "True",
