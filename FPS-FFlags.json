@@ -157,7 +157,7 @@
 "FStringPartTexturePackTablePre2022": "{\u0022glass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://7547304948\u0022,\u0022rbxassetid://7546645118\u0022],\u0022color\u0022:[254,254,254,7]}}",
 "FStringTerrainMaterialTable2022": "",
 "FStringTerrainMaterialTablePre2022": "",
-"FStringVoiceBetaBadgeLearnMoreLink": "https://eaglercraft.com/mc/1.8.8/",
+"FFlagVoiceBetaBadge": "False",
 "DFLogHttpTrace": "0",
 "DFLogHttpTraceError": "0",
 "DFLogHttpTraceLight": "0",
