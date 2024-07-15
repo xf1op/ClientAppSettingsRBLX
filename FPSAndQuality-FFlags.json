@@ -72,7 +72,7 @@
 "FFlagEnableInGameMenuChrome": "False",
 "FFlagChromeBetaFeature": "False",
 "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0",
-"FStringVoiceBetaBadgeLearnMoreLink": "https://eaglercraft.com/mc/1.8.8/",
+"FFlagVoiceBetaBadge": "False",
 "DFLogHttpTrace": "0",
 "DFLogHttpTraceError": "0",
 "DFLogHttpTraceLight": "0",
