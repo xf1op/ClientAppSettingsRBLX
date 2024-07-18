@@ -57,7 +57,7 @@
 "DFIntSimCSG3DCDMaxNumConvexHulls": "0",
 "DFIntSimModelLodVoxelNumPerAxis": "0",
 "DFIntTaskSchedulerTargetFps": "0",
-"DFIntTerrainLodActive": "1",
+"DFIntTerrainLodActive": "0",
 "DFIntTextureCompositorActiveJobs": "1",
 "DFIntTrackerTelemetryEventRate": "0",
 "DFIntVideoMaxNumberOfVideosPlaying": "0",
