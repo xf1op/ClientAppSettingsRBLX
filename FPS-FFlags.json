@@ -134,7 +134,7 @@
 "FFlagUserShowGuiHideToggles": "True",
 "FFlagVoiceBetaBadge": "False",
 "FFlagVoiceChatExposeWebRTCMetrics": "False",
-"FIntCSGVoxelizerFadeRadius": "0",
+"FIntCSGVoxelizerFadeRadius": "1",
 "FIntDebugForceMSAASamples": "0",
 "FIntDebugFRMOptionalMSAALevelOverride": "0",
 "FIntDefaultMeshCacheSizeMB": "256",
