@@ -1,4 +1,13 @@
 {
+"DFFlagAdsPreloadInteractivityAssets": "False",
+"DFFlagAssetPreloadingUrlVersionEnabled": "False",
+"DFFlagAssetPreloadingUrlVersionEnabled2": "False",
+"DFFlagDebugContentProviderSkipPreloadFromTextureManager": "True",
+"DFFlagEnableMeshPreloading": "False",
+"DFFlagEnableMeshPreloading2": "False",
+"DFFlagEnableSoundPreloading": "False",
+"DFFlagEnableTexturePreloading": "False",
+"DFFlagTeleportClientAssetPreloadingEnabled3": "False",
 "DFIntCullFactorPixelThresholdShadowMapHighQuality": "999999999", 
 "DFIntCullFactorPixelThresholdShadowMapLowQuality": "999999999",
 "DFFlagAddPlaySessionIdTelemetry": "False",
