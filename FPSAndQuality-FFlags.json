@@ -67,7 +67,7 @@
 "FIntPercentReportingLeaveGameAnalytics": "0", "FFlagEnableChromeAnalytics": "False", "DFIntCoreScriptsAnalyticsHundredthsPercentage": "0", "FFlagEnableLuaVoiceChatAnalyticsV2": "False", "FFlagLuaVoiceChatAnalyticsBanMessageV3": "False", "FFlagLuaVoiceChatAnalyticsUseCounterV2": "False", "FFlagLuaVoiceChatAnalyticsUseEventsV2": "False",
 "FIntRenderApiUsageMetricsHundredthsPercent": "0",
 "FIntRuntimeMaxNumOfThreads": "2400",
-"FIntTaskSchedulerAutoThreadLimit": "10",
+"FIntTaskSchedulerAutoThreadLimit": "9",
 "FIntTaskSchedulerThreadMin": "4",
 "FFlagEnableInGameMenuChrome": "False",
 "FFlagChromeBetaFeature": "False",
