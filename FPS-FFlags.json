@@ -163,7 +163,7 @@
 "FIntRuntimeMaxNumOfThreads": "2400",
 "FIntSSAO": "0",
 "FIntSSAOMipLevels": "0",
-"FIntTaskSchedulerAutoThreadLimit": "10",
+"FIntTaskSchedulerAutoThreadLimit": "9",
 "FIntTaskSchedulerThreadMin": "4",
 "FIntTerrainArraySliceSize": "0",
 "FIntTerrainAtlasBorderSize": "0",
