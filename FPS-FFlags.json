@@ -1,5 +1,5 @@
 {
-  "FIntRenderLocalLightUpdatesMax": "4",
+  "FIntRenderLocalLightUpdatesMin": "4",
   "FIntRenderLocalLightFadeInMs": "0",
   "DFFlagAdsPreloadInteractivityAssets": "False",
   "DFFlagAssetPreloadingUrlVersionEnabled": "False",
