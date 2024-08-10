@@ -1,5 +1,8 @@
 {
-  "FIntRenderLocalLightUpdatesMin": "4",
+  "FFlagRemoveRedundantFontPreloading": "True",
+  "FFlagPreloadMinimalFonts": "False",
+  "FFlagPreloadTextureItemsOption4": "False",
+  "FFlagPreloadAllFonts": "False",
   "FIntRenderLocalLightFadeInMs": "0",
   "DFFlagAdsPreloadInteractivityAssets": "False",
   "DFFlagAssetPreloadingUrlVersionEnabled": "False",
@@ -111,7 +114,6 @@
   "FFlagDisableMostRecentlyUsed": "True",
   "FFlagDisablePlayerListDisplayCloseBtn": "True",
   "FFlagDisablePostFx": "True",
-  "FFlagDisablePrefetchProtocol": "True",
   "FFlagEnableChromeAnalytics": "False",
   "FFlagEnableInGameMenuChrome": "False",
   "FFlagEnableLuaVoiceChatAnalyticsV2": "False",
