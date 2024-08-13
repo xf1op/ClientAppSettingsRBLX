@@ -1,4 +1,6 @@
 {
+  "FFlagDebugCheckRenderThreading": "True",
+  "FFlagRenderDebugCheckThreading2": "True",
   "FFlagRemoveRedundantFontPreloading": "True",
   "FFlagPreloadMinimalFonts": "False",
   "FFlagPreloadTextureItemsOption4": "False",
