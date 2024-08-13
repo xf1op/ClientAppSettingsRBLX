@@ -1,4 +1,6 @@
 {
+"FFlagDebugCheckRenderThreading": "True",
+"FFlagRenderDebugCheckThreading2": "True",
 "DFFlagDynamicTextures": "False",
 "FFlagHandleAltEnterFullscreenManually": "False",
 "DFFlagCleanOldCSGData": "True",
