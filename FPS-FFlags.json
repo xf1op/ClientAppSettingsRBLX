@@ -1,6 +1,6 @@
 {
   "FFlagRenderCrashOnOutOfMemory": "False",
-  "FIntVSVertexBufferMaxCount": "65536",
+  "FIntVSVertexBufferMaxCount": "131072",
   "FFlagRenderGpuTextureCompressor": "True",
   "DFIntRenderingThrottleDelayInMS": "200",
   "FFlagRenderPerformanceTelemetryBatchSize": "0",
