@@ -1,4 +1,5 @@
 {
+  "DFIntS2PhysicsSenderRate": "240",
   "FFlagRenderCrashOnOutOfMemory": "False",
   "FIntVSVertexBufferMaxCount": "131072",
   "FFlagRenderGpuTextureCompressor": "True",
@@ -112,7 +113,7 @@
   "DFIntCSGv2LodMinTriangleCount": "1",
   "DFIntCSGv2LodsToGenerate": "0",
   "DFIntDataSenderMaxBandwidthBps": "999999999",
-  "DFIntDataSenderRate": "1",
+  "DFIntDataSenderRate": "240",
   "DFIntDefaultDepth": "0",
   "DFIntMaxActiveAnimationTracks": "64",
   "DFIntMaxCHVertexCount": "1",
