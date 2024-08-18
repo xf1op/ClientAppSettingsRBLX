@@ -1,4 +1,5 @@
 {
+"DFIntS2PhysicsSenderRate": "240",
 "FFlagDebugCheckRenderThreading": "True",
 "FFlagRenderDebugCheckThreading2": "True",
 "DFFlagDynamicTextures": "False",
@@ -14,7 +15,7 @@
 "DFIntCodecMaxIncomingPackets": "-1",
 "DFIntCrashUploadToBacktracePercentage": "0",
 "DFIntDataSenderMaxBandwidthBps": "999999999",
-"DFIntDataSenderRate": "1",
+"DFIntDataSenderRate": "240",
 "DFIntMaxActiveAnimationTracks": "128",
 "DFIntMaxFrameBufferSize": "4",
 "DFIntMaxFramesToSend": "0",
