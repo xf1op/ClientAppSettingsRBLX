@@ -1,5 +1,4 @@
 {
-  "DFIntClusterCompressionLevel": "5",
   "DFIntJoinDataCompressionLevel": "4",
   "DFFlagOptimizePartsInPart": "True",
   "DFFlagOptimizeClusterCacheAlloc": "True",
@@ -69,8 +68,8 @@
   "FFlagContentProviderPreloadHangTelemetry": "False",
   "DFFlagAdsPreloadInteractivityAssets": "False",
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager": "True",
-  "DFIntNumAssetsMaxToPreload": "-1",
-  "DFIntPreloadTextureTimeBuget": "-1",
+  "DFIntNumAssetsMaxToPreload": "0",
+  "DFIntPreloadTextureTimeBuget": "0",
   "FFlagLuaAppGamesPagePreloadingDisabled": "True",
   "FFlagPreloadAllFonts": "False",
   "FFlagPreloadMinimalFonts": "False",
