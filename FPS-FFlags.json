@@ -1,4 +1,6 @@
 {
+  "DFIntClusterCompressionLevel": "5",
+  "DFIntJoinDataCompressionLevel": "4",
   "DFFlagOptimizePartsInPart": "True",
   "DFFlagOptimizeClusterCacheAlloc": "True",
   "FFlagEnableCullableScene2OptimizeStep": "True",
@@ -120,7 +122,7 @@
   "DFIntMaxCHVertexCount": "1",
   "DFIntMaxFrameBufferSize": "4",
   "DFIntMeshNLoDs": "1",
-  "DFIntNetworkSchemaCompressionRatio": "20",
+  "DFIntNetworkSchemaCompressionRatio": "18",
   "DFIntRakNetMtuValue1InBytes": "1280",
   "DFIntRakNetMtuValue2InBytes": "1240",
   "DFIntRakNetMtuValue3InBytes": "1200",
