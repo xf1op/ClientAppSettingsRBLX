@@ -1,4 +1,7 @@
 {
+  "FFlagEnableExperienceInviteOptions": "False",
+  "FFlagEnableExperienceService": "False",
+  "DFFlagEnableExperienceNotificationOptInPrompt": "False",
   "DFIntJoinDataCompressionLevel": "4",
   "DFFlagOptimizePartsInPart": "True",
   "DFFlagOptimizeClusterCacheAlloc": "True",
