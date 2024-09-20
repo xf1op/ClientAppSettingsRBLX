@@ -1,4 +1,9 @@
 {
+"FFlagAXFixAccessoryAdjustmentDiscards": "True",
+"FFlagAXAccessoryAdjustment": "True",
+"FFlagAXAccessoryAdjustmentIXPEnabled": "True",
+"FFlagAXAccessoryAdjustmentUnmountDiscard": "True",
+"FFlagAccessoryAdjustmentEnabled5": "True",
 "DFIntS2PhysicsSenderRate": "240",
 "FFlagDebugCheckRenderThreading": "True",
 "FFlagRenderDebugCheckThreading2": "True",
