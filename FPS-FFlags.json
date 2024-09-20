@@ -1,4 +1,9 @@
 {
+  "FFlagAXFixAccessoryAdjustmentDiscards": "true",
+  "FFlagAXAccessoryAdjustment": "true",
+  "FFlagAXAccessoryAdjustmentIXPEnabled": "true",
+  "FFlagAXAccessoryAdjustmentUnmountDiscard": "true",
+  "FFlagAccessoryAdjustmentEnabled5": "true",
   "DFFlagCleanOldCSGData": "true",
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager": "true",
   "DFFlagDebugDisableTelemetryAfterTest": "true",
