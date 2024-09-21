@@ -1,4 +1,11 @@
 {
+ "DFFlagHttpSslCertCacheEnabled2": "false",
+ "DFIntGraphicsOptimizationModeMaxFrameTimeTargetMs": "20",
+ "DFIntGraphicsOptimizationModeMinFrameTimeTargetMs": "5",
+ "FFlagAnimationClipMemCacheEnabled": "false",
+ "FFlagDebugGraphicsDisableOpenGL": "true",
+ "FFlagDebugGraphicsDisableVulkan": "true",
+ "FFlagDebugGraphicsDisableVulkan11": "true",
  "FFlagEnableNonUAPAccessoryAdjustment": "true",
  "DFFlagCleanOldCSGData": "true",
  "DFFlagDebugDisableLogServiceExecuteScript": "true",
