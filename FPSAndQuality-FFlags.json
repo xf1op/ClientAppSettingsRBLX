@@ -1,4 +1,6 @@
 {
+ "FFlagLuaMenuPerfImprovements": "true",
+ "FIntTaskSchedulerThreadMin": "4",
  "DFFlagHttpSslCertCacheEnabled2": "false",
  "DFIntGraphicsOptimizationModeMaxFrameTimeTargetMs": "5",
  "DFIntGraphicsOptimizationModeMinFrameTimeTargetMs": "1",
