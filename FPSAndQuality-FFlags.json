@@ -1,4 +1,5 @@
 {
+ "FIntRomarkStartWithGraphicQualityLevel": "1",
  "FFlagLuaMenuPerfImprovements": "true",
  "FIntTaskSchedulerThreadMin": "4",
  "DFFlagHttpSslCertCacheEnabled2": "false",
