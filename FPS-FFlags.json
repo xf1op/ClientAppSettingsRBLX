@@ -1,4 +1,5 @@
 {
+ "FIntRomarkStartWithGraphicQualityLevel": "1",
  "FFlagSelfieViewEnabled": "false",
  "FFlagLuaMenuPerfImprovements": "true",
  "FIntTaskSchedulerThreadMin": "4",
