@@ -1,4 +1,6 @@
 {
+ "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "true",
+ "FFlagWebViewProtocol": "false",
  "FIntRomarkStartWithGraphicQualityLevel": "1",
  "FFlagLuaMenuPerfImprovements": "true",
  "FIntTaskSchedulerThreadMin": "4",
