@@ -1,2 +1,2 @@
 # Basically Roblox FFlags For My Scripts
-https://linktr.ee/xf1op
+Script is under this link: https://linktr.ee/xf1op
