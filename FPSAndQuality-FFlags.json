@@ -1,4 +1,7 @@
 {
+ "DFIntVoiceChatRollOffMaxDistance": "96",
+ "FFlagLuaAppEnableFoundationColors3": "true",
+ "FFlagLuaAppUseUIBloxColorPalettes1": "true",
  "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "true",
  "FFlagWebViewProtocol": "false",
  "FIntRomarkStartWithGraphicQualityLevel": "1",
