@@ -1,4 +1,7 @@
 {
+  "FFlagLuaAppEnableToastNotifications4": "false",
+  "FFlagLuaAppEnableToastNotificationsCoreScripts4": "false",
+  "FFlagLuaAppNavigationAnalytics": "false",
   "DFIntVoiceChatRollOffMaxDistance": "96",
   "FFlagLuaAppEnableFoundationColors3": "true",
   "FFlagLuaAppUseUIBloxColorPalettes1": "true",
