@@ -1,4 +1,6 @@
 {
+ "FIntGameGridFlexFeedItemTileNumPerFeed": "0",
+ "DFIntNumAssetsMaxToPreload": "1500",
  "FFlagLuaAppEnableToastNotifications4": "false",
  "FFlagLuaAppEnableToastNotificationsCoreScripts4": "false",
  "FFlagLuaAppNavigationAnalytics": "false",
@@ -77,11 +79,9 @@
  "FFlagEnableNetworkChangeTelemtry2": "false", "FFlagEnableNewTelemetryProtocol2": "false","FIntUserActionTrackerTelemetryHundredthsPercent": "0", "DFIntTrackerTelemetryEventRate": "0", "DFFlagDisableDownloadBandwidthTracker": "true", "DFFlagAddPlaySessionIdTelemetry": "false", "DFFlagBrowserTrackerIdTelemetryEnabled": "false", "DFFlagClientRolloutPhaseTelemetry": "false", "DFFlagDebugDisableTelemetryAfterTest": "true", "DFFlagDisableFastLogTelemetry": "true", "FFlagDebugDisableWebmAlphaSupport": "true", "FFlagDebugDisableTelemetryEphemeralCounter": "true", "FFlagDebugDisableTelemetryEphemeralStat": "true", "FFlagDebugDisableTelemetryEventIngest": "true", "FFlagDebugDisableTelemetryPoint": "true", "FFlagDebugDisableTelemetryV2Counter": "true", "FFlagDebugDisableTelemetryV2Event": "true", "FFlagDebugDisableTelemetryV2Stat": "true",
  "FFlagEnableQuickGameLaunch": "true",
  "FFlagFastGPULightCulling3": "true",
- "FFlagFixGraphicsQuality": "true",
  "FFlagGlobalWindActivated": "false",
  "FFlagGraphicsD3D11ExtraInitLog": "false",
  "FFlagGraphicsDebugMarkers": "false",
- "FFlagGraphicsSettingsOnlyShowValidModes": "true",
  "FFlagGraphicsTextureCopy": "true",
  "FFlagHandleAltEnterFullscreenManually": "false",
  "FFlagLuaAppDisableVideo": "true",
