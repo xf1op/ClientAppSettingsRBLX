@@ -103,7 +103,6 @@
   "FFlagDebugDisableTelemetryV2Counter": "true",
   "FFlagDebugDisableTelemetryV2Event": "true",
   "FFlagDebugDisableTelemetryV2Stat": "true",
-  "FFlagDebugDisableWebmAlphaSupport": "true",
   "FFlagDebugGraphicsPreferD3D11": "true",
   "FFlagDebugSSAOForce": "true",
   "FFlagDisableAppLaunchFlowThrottling": "true",
