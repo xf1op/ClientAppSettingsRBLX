@@ -1,6 +1,6 @@
 {
  "FIntGameGridFlexFeedItemTileNumPerFeed": "0",
- "DFIntNumAssetsMaxToPreload": "1500",
+ "DFIntNumAssetsMaxToPreload": "-1",
  "FFlagLuaAppEnableToastNotifications4": "false",
  "FFlagLuaAppEnableToastNotificationsCoreScripts4": "false",
  "FFlagLuaAppNavigationAnalytics": "false",
