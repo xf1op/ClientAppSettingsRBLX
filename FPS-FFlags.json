@@ -1,4 +1,5 @@
 {
+  "FFlagEnableAccountSwitchFeature": "true",
   "DFIntDebugFRMQualityLevelOverride": "1",
   "FIntGameGridFlexFeedItemTileNumPerFeed": "0",
   "FFlagLuaAppEnableToastNotifications4": "false",
