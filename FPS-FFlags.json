@@ -1,4 +1,5 @@
 {
+  "DFIntDebugFRMQualityLevelOverride": "1",
   "FIntGameGridFlexFeedItemTileNumPerFeed": "0",
   "FFlagLuaAppEnableToastNotifications4": "false",
   "FFlagLuaAppEnableToastNotificationsCoreScripts4": "false",
