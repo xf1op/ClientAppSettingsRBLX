@@ -10,7 +10,7 @@
   "FIntEnableVisBugChecksHundredthPercent27": "100",
   "DFFlagUseVisBugChecks": "true",
   "FFlagEnableVisBugChecks27": "true",
-  "DFIntNumAssetsMaxToPreload": "1500",
+  "DFIntNumAssetsMaxToPreload": "-1",
   "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "true",
   "FFlagWebViewProtocol": "false",
   "FFlagSelfieViewEnabled": "false",
