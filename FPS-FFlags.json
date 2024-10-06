@@ -13,7 +13,6 @@
   "DFIntNumAssetsMaxToPreload": "1500",
   "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "true",
   "FFlagWebViewProtocol": "false",
-  "FIntRomarkStartWithGraphicQualityLevel": "1",
   "FFlagSelfieViewEnabled": "false",
   "FFlagLuaMenuPerfImprovements": "true",
   "FIntTaskSchedulerThreadMin": "4",
