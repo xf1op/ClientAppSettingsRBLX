@@ -52,7 +52,6 @@
   "DFIntSimModelLodVoxelNumPerAxis": "0",
   "DFIntTerrainLodActive": "0",
   "DFIntVideoMaxNumberOfVideosPlaying": "0",
-  "DFIntVoiceChatRenderMode": "2",
   "FFlagAdServiceEnabled": "false",
   "FFlagClientToastNotificationsEnabled": "true",
   "FFlagCollectionServiceTagTracking": "false",
