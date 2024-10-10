@@ -1,4 +1,12 @@
 {
+  "FFlagDisableNewIGMinDUA": "True",
+  "FFlagEnableInGameMenuControls": "False",
+  "FFlagEnableInGameMenuModernization": "False",
+  "FFlagEnableInGameMenuChrome": "False",
+  "FFlagEnableMenuControlsABTest": "False",
+  "FFlagEnableV3MenuABTest3": "False",
+  "FFlagEnableInGameMenuChromeABTest3": "False",
+  "FFlagFixReportButtonCutOff": "False",
   "DFFlagAddPlaySessionIdTelemetry": "false",
   "DFFlagAdGuiImpressionDisabled": "true",
   "DFFlagAnalyticsServiceEnabled": "false",
