@@ -1,4 +1,5 @@
 {
+    "FIntCSGKernelManagerMaxMemoryConsumptionMB": "48",
     "FFlagDisableNewIGMinDUA": "True",
     "FFlagEnableInGameMenuControls": "False",
     "FFlagEnableInGameMenuModernization": "False",
