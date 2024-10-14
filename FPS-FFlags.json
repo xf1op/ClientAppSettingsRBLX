@@ -140,7 +140,6 @@
   "FIntUITextureHighSingleTextureMemoryMB": "2",
   "FIntUITextureLowSingleTextureMemoryMB": "1",
   "FFlagEnableAccountSwitchFeature": "true",
-  "DFIntDebugFRMQualityLevelOverride": "1",
   "FFlagLuaAppEnableToastNotifications4": "false",
   "FFlagLuaAppNavigationAnalytics": "false",
   "DFIntVoiceChatRollOffMaxDistance": "96",
