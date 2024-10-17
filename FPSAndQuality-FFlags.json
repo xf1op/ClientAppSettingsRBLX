@@ -17,8 +17,6 @@
     "FFlagLuaAppEnableToastNotificationsCoreScripts4": "false",
     "FFlagLuaAppNavigationAnalytics": "false",
     "DFIntVoiceChatRollOffMaxDistance": "96",
-    "FFlagLuaAppEnableFoundationColors3": "true",
-    "FFlagLuaAppUseUIBloxColorPalettes1": "true",
     "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "true",
     "FFlagLuaMenuPerfImprovements": "true",
     "DFFlagHttpSslCertCacheEnabled2": "false",
