@@ -1,4 +1,5 @@
 {
+  "FIntDebugTextureManagerSkipMips": "1",
   "FLogCrashReportLog": "0",
   "DFFlagSafetyServiceScreenshot": "false",
   "FIntNewInGameMenuPercentRollout3": "0",
