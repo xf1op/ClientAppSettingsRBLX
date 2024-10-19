@@ -179,7 +179,7 @@
   "DFIntMaxFramesToSend": "0",
   "DFIntPreloadTextureTimeBuget": "0",
   "DFIntRakNetMtuValue1InBytes": "1472",
-  "DFIntVoiceChatVolumeThousandths": "1750",
+  "DFIntVoiceChatVolumeThousandths": "1500",
   "DFLogHttpTrace": "0",
   "DFLogHttpTraceError": "0",
   "DFLogHttpTraceLight": "0",
