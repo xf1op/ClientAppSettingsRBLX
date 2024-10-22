@@ -1,4 +1,5 @@
 {
+    "FFlagLuaAppEnableFoundationColors4": "true",
     "FFlagRenderUnifiedLighting8": "true",
     "FLogCrashReportLog": "0",
     "FIntCSGKernelManagerMaxMemoryConsumptionMB": "48",
