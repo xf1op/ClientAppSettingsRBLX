@@ -1,4 +1,6 @@
 {
+  "FFlagInGameChromeSignalAPIAnalytics": "false",
+  "FIntChromeBetaFeatureRolloutPercent": "0",
   "FIntTargetRefreshRate": "240",
   "DFIntAdditionalPrePauseStatsHundredthsPercentage": "0",
   "DFIntCrashReportingHundredthsPercentage": "0",
@@ -78,7 +80,6 @@
   "DFLogVoiceChatRequestTrace": "0",
   "FFlagAdServiceEnabled": "false",
   "FFlagChatTranslationForceSetting": "false",
-  "FFlagChromeBetaFeature": "false",
   "FFlagDebugCheckRenderThreading": "true",
   "FFlagDebugDisableAllTeachingCallouts": "true",
   "FFlagDebugDisableLocalUGCValidation": "true",

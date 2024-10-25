@@ -1,4 +1,8 @@
 {
+  "FFlagEnableChromeAnalytics": "false",
+  "FFlagInGameChromeSignalAPIAnalytics": "false",
+  "FIntAnimationParallelThreadMax": "16",
+  "FIntChromeBetaFeatureRolloutPercent": "0",
   "FIntTargetRefreshRate": "240",
   "DFIntAdditionalPrePauseStatsHundredthsPercentage": "0",
   "DFIntCrashReportingHundredthsPercentage": "0",
@@ -152,7 +156,7 @@
   "DFIntCSGv2LodLevel3Percentage": "0",
   "DFIntCSGv2LodLevel4Percentage": "0",
   "DFIntCSGv2LodMinTriangleCount": "1",
-  "DFIntTextureCompositorActiveJobs": "2",
+  "DFIntTextureCompositorActiveJobs": "1",
   "FFlagGraphicsTextureCopy": "true",
   "FFlagSimCSGV3EnableMemoryTelemetry": "false",
   "FIntCSGKernelManagerMaxMemoryConsumptionMB": "48",
