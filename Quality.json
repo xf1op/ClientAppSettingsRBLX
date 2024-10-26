@@ -108,7 +108,6 @@
   "FIntDebugForceMSAASamples": "0",
   "FIntDebugFRMOptionalMSAALevelOverride": "0",
   "FIntDefaultMeshCacheSizeMB": "256",
-  "FIntFullscreenTitleBarTriggerDelayMillis": "2000",
   "FIntPercentReportingLeaveGameAnalytics": "0", "FFlagEnableChromeAnalytics": "false", "DFIntCoreScriptsAnalyticsHundredthsPercentage": "0", "FFlagEnableLuaVoiceChatAnalyticsV2": "false", "FFlagLuaVoiceChatAnalyticsBanMessageV3": "false", "FFlagLuaVoiceChatAnalyticsUseCounterV2": "false", "FFlagLuaVoiceChatAnalyticsUseEventsV2": "false",
   "FIntRenderApiUsageMetricsHundredthsPercent": "0",
   "FIntRuntimeMaxNumOfThreads": "2400",
