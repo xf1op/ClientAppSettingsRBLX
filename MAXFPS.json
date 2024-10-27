@@ -1,7 +1,11 @@
 {
+  "DFIntMinimumTerrainStreamingRadiusRegions": "1",
+  "DFIntStreamingTerrainLodRadiusPercent1": "0",
+  "DFIntStreamingTerrainLodRadiusPercent2": "0",
+  "DFIntStreamingTerrainLodRadiusPercent3": "0",
+  "FIntAnimationParallelThreadMax": "8",
   "FFlagEnableChromeAnalytics": "false",
   "FFlagInGameChromeSignalAPIAnalytics": "false",
-  "FIntAnimationParallelThreadMax": "16",
   "FIntChromeBetaFeatureRolloutPercent": "0",
   "FIntTargetRefreshRate": "240",
   "DFIntAdditionalPrePauseStatsHundredthsPercentage": "0",
