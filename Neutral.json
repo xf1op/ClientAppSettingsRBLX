@@ -1,4 +1,5 @@
 {
+  "FFlagMovePrerender": "true",
   "DFIntAdditionalPrePauseStatsHundredthsPercentage": "0",
   "DFIntCrashReportingHundredthsPercentage": "0",
   "DFIntCrashUploadToBacktracePercentage": "0",

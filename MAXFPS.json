@@ -1,4 +1,5 @@
 {
+  "FFlagMovePrerender": "true",
   "DFIntMinimumTerrainStreamingRadiusRegions": "1",
   "DFIntStreamingTerrainLodRadiusPercent1": "0",
   "DFIntStreamingTerrainLodRadiusPercent2": "0",

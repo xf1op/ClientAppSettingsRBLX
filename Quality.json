@@ -1,4 +1,5 @@
 {
+  "FFlagMovePrerender": "true",
   "FFlagInGameChromeSignalAPIAnalytics": "false",
   "FIntChromeBetaFeatureRolloutPercent": "0",
   "FIntTargetRefreshRate": "240",
