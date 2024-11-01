@@ -1,4 +1,5 @@
 {
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "false",
   "FFlagEnableInGameMenuDurationLogger": "false",
   "FFlagEnableInGameMenuChromeABTest4": "false",
   "DFIntGameMenuFlowTelemetryThrottle": "0",
@@ -81,7 +82,7 @@
   "DFIntCSGv2LodsToGenerate": "0",
   "DFIntCullFactorPixelThresholdMainViewHighQuality": "4",
   "DFIntCullFactorPixelThresholdShadowMapHighQuality": "8",
-  "DFIntDataSenderRate": "240",
+  "DFIntDataSenderRate": "30",
   "DFIntFRMVoxelizerBudgetWhileLoading": "1",
   "DFIntMaxActiveAnimationTracks": "128",
   "DFIntMaxCHVertexCount": "1",

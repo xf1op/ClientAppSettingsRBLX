@@ -1,4 +1,5 @@
 {
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "false",
   "FFlagMovePrerender": "true",
   "DFIntAdditionalPrePauseStatsHundredthsPercentage": "0",
   "DFIntCrashReportingHundredthsPercentage": "0",
