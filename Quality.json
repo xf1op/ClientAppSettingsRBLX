@@ -1,4 +1,5 @@
 {
+  "DFIntS2PhysicsSenderRate": "30",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "false",
   "FFlagEnableInGameMenuDurationLogger": "false",
   "FFlagEnableInGameMenuChromeABTest4": "false",

@@ -1,4 +1,5 @@
 {
+  "DFIntS2PhysicsSenderRate": "30",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "false",
   "FFlagEnableInGameMenuDurationLogger": "false",
   "FFlagEnableInGameMenuChromeABTest4": "false",
@@ -90,7 +91,6 @@
   "DFIntMeshNLoDs": "1",
   "DFIntNetworkSchemaCompressionRatio": "20",
   "DFIntRenderShadowHugeRadius": "0",
-  "DFIntS2PhysicsSenderRate": "60",
   "DFIntSimCSGClosedVoxelMaxCount": "0",
   "DFIntSimModelLodVoxelNumPerAxis": "0",
   "DFIntTerrainLodActive": "0",
