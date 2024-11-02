@@ -1,4 +1,7 @@
 {
+  "DFFlagOptimizeInstanceQueries": "true",
+  "DFFlagOptimizeIsA": "true",
+  "DFFlagOptimizeSetParentOnShutdown": "true",
   "DFIntS2PhysicsSenderRate": "30",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "false",
   "FFlagEnableInGameMenuDurationLogger": "false",
