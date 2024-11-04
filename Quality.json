@@ -18,7 +18,6 @@
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "false",
   "FFlagEnableInGameMenuDurationLogger": "false",
   "DFIntGameMenuFlowTelemetryThrottle": "0",
-  "FFlagEnableInGameMenuChromeSignalAPI": "false",
   "FFlagInGameChromeSignalAPIAnalytics": "false",
   "FFlagMovePrerender": "true",
   "FIntTargetRefreshRate": "240",
