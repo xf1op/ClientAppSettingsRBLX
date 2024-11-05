@@ -1,4 +1,6 @@
 {
+  "FFlagVoiceBetaBadge": "False",
+  "FFlagFixDupeBetaBadge": "True",
   "FFlagClientToastNotificationsEnabled": "False",
   "FFlagToastNotificationsProtocolEnabled2": "False",
   "FFlagUserHideCharacterParticlesInFirstPerson": "True",
