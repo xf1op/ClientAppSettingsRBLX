@@ -11,7 +11,6 @@
   "FFlagDebugDisableTelemetryV2Event": "True",
   "FFlagDebugDisableTelemetryV2Stat": "True",
   "DFIntMaxFrameBufferSize": "4",
-  "FFlagMovePrerender": "True",
   "FFlagGraphicsTextureCopy": "True",
   "FFlagAXAccessoryAdjustment": "True",
   "FFlagAXAccessoryAdjustmentIXPEnabled": "True",
