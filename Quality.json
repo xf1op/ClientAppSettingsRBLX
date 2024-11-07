@@ -1,4 +1,5 @@
 {
+  "FFlagEnableCancelInputEvent": "true",
   "FFlagVoiceBetaBadge": "False",
   "FFlagFixDupeBetaBadge": "True",
   "FFlagClientToastNotificationsEnabled": "False",

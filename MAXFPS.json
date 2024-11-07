@@ -1,4 +1,6 @@
 {
+  "DFIntRenderingThrottleDelayInMS": "250",
+  "FFlagEnableCancelInputEvent": "true",
   "FFlagVoiceBetaBadge": "False",
   "FFlagFixDupeBetaBadge": "True",
   "FFlagClientToastNotificationsEnabled": "False",
