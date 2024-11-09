@@ -1,6 +1,6 @@
 {
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-  "FFlagLuaAppEnableFoundationColors7": "True",
+  "FFlagLuaAppEnableFoundationColors6": "True",
   "FIntGameGridFlexFeedItemTileNumPerFeed": "0",
   "DFFlagDebugDisableTelemetryAfterTest": "True",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
