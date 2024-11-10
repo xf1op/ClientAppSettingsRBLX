@@ -18,7 +18,7 @@
   "FFlagVisBugChecksThreadYield": "True",
   "FIntEnableVisBugChecksHundredthPercent27": "100",
   "FFlagChatTranslationEnableSystemMessage": "False",
-  "FFlagLuaAppEnableFoundationColors7": "True",
+  "FFlagLuaAppEnableFoundationColors6": "True",
   "FIntGameGridFlexFeedItemTileNumPerFeed": "0",
   "FIntRuntimeMaxNumOfThreads": "3200",
   "FIntTaskSchedulerAutoThreadLimit": "9",
