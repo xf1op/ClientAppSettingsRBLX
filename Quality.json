@@ -1,4 +1,6 @@
 {
+  "FFlagDebugDisableLocalUGCValidation": "true",
+  "FFlagEnableCullableScene2OptimizeStep": "true",
   "FFlagEnableCancelInputEvent": "true",
   "FFlagVoiceBetaBadge": "False",
   "FFlagFixDupeBetaBadge": "True",

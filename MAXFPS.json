@@ -1,4 +1,8 @@
 {
+  "DFIntVideoMaxNumberOfVideosPlaying": "0",
+  "FIntVideoAdsMaxNumberOfVideosPlaying": "0",
+  "FFlagDebugDisableLocalUGCValidation": "true",
+  "FFlagEnableCullableScene2OptimizeStep": "true",
   "DFIntRenderingThrottleDelayInMS": "250",
   "FFlagEnableCancelInputEvent": "true",
   "FFlagVoiceBetaBadge": "False",
