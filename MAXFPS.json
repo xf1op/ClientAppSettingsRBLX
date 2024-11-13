@@ -1,4 +1,9 @@
 {
+  "VideoPreRollWaitTimeSeconds": "0",
+  "CrashWhenAssetMissing": "False",
+  "BacktraceLogSize": "0",
+  "AllowVideoPreRoll": "False",
+  "FFlagEnableChromeAnalytics": "False",
   "DFIntVideoMaxNumberOfVideosPlaying": "0",
   "FIntVideoAdsMaxNumberOfVideosPlaying": "0",
   "FFlagDebugDisableLocalUGCValidation": "true",
