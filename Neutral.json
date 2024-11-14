@@ -1,7 +1,7 @@
 {
   "FFlagEnableChromeAnalytics": "False",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-  "FFlagLuaAppEnableFoundationColors6": "True",
+  "FFlagLuaAppEnableFoundationColors7": "True",
   "FIntGameGridFlexFeedItemTileNumPerFeed": "0",
   "DFFlagDebugDisableTelemetryAfterTest": "True",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
