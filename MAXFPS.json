@@ -1,4 +1,10 @@
 {
+  "DFStringCrashUploadToBacktraceBaseUrl": "about:blank",
+  "DFStringCrashUploadToBacktraceWindowsPlayerToken": "about:blank",
+  "DFIntCrashUploadToBacktracePercentage": "0",
+  "FStringTerrainMaterialTable2022": "{}",
+  "FStringTerrainMaterialTablePre2022": "{}",
+  "FIntRobloxGuiBlurIntensity": "0",
   "DFIntFaceTrackingLod": "0",
   "DFIntCSGv2LodMinTriangleCount": "0",
   "DFIntCSGv2LodsToGenerate": "0",
