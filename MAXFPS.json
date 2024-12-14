@@ -27,7 +27,7 @@
   "FFlagToastNotificationsProtocolEnabled2": "False",
   "FFlagUserHideCharacterParticlesInFirstPerson": "True",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-  "DFIntNumAssetsMaxToPreload": "2000",
+  "DFIntAssetPreloading": "10000",
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
   "DFFlagUseVisBugChecks": "True",
   "FFlagEnableVisBugChecks27": "True",
