@@ -42,5 +42,7 @@
   "FLogVoiceChatLogs": "0",
   "FLogWarning": "0",
   "FLogWebRTC": "0",
-  "FLogWindowsLuaApp": "0"
+  "FLogWindowsLuaApp": "0",
+  "FFlagRenderDebugCheckThreading2": "true",
+  "FFlagDebugCheckRenderThreading": "true"
 }
