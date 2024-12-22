@@ -56,6 +56,7 @@
   "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
   "FFlagNewLightAttenuation": "True",
   "FFlagFastGPULightCulling3": "True",
+  "FFlagDebugForceFSMCPULightCulling": "True",
   "DFIntMaxFrameBufferSize": "4",
   "DFIntTextureCompositorActiveJobs": "1",
   "FIntFRMMinGrassDistance": "0",
@@ -145,5 +146,9 @@
   "FFlagDebugGraphicsDisableVulkan11": "true",
   "FFlagDebugGraphicsPreferD3D11": "true",
   "FFlagRenderDebugCheckThreading2": "true",
-  "FFlagRenderFixFog": "true"
+  "FFlagRenderFixFog": "true",
+  "DFIntAnimationLodFacsDistanceMin": "0",
+  "DFIntAnimationLodFacsDistanceMax": "0",
+  "DFIntAnimationLodFacsVisibilityDenominator": "0",
+  "DFIntS2PhysicsSenderRate": "60"
 }
