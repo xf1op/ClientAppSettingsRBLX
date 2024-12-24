@@ -103,5 +103,6 @@
   "FFlagDebugGraphicsDisableVulkan": "true",
   "FFlagDebugGraphicsDisableVulkan11": "true",
   "FFlagDebugGraphicsPreferD3D11": "true",
-  "FFlagRenderDebugCheckThreading2": "true"
+  "FFlagRenderDebugCheckThreading2": "true",
+  "DFFlagRakNetUseSlidingWindow4": "true"
 }

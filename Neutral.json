@@ -44,5 +44,6 @@
   "FLogWebRTC": "0",
   "FLogWindowsLuaApp": "0",
   "FFlagRenderDebugCheckThreading2": "true",
-  "FFlagDebugCheckRenderThreading": "true"
+  "FFlagDebugCheckRenderThreading": "true",
+  "DFFlagRakNetUseSlidingWindow4": "true"
 }

@@ -146,5 +146,6 @@
   "DFIntAnimationLodFacsDistanceMin": "0",
   "DFIntAnimationLodFacsDistanceMax": "0",
   "DFIntAnimationLodFacsVisibilityDenominator": "0",
-  "DFIntS2PhysicsSenderRate": "60"
+  "DFIntS2PhysicsSenderRate": "60",
+  "DFFlagRakNetUseSlidingWindow4": "true"
 }
