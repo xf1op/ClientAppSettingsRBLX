@@ -147,5 +147,7 @@
   "DFIntAnimationLodFacsDistanceMax": "0",
   "DFIntAnimationLodFacsVisibilityDenominator": "0",
   "DFIntS2PhysicsSenderRate": "60",
-  "DFFlagRakNetUseSlidingWindow4": "true"
+  "DFFlagRakNetUseSlidingWindow4": "true",
+  "DFFlagOptimizePartsInPart": "true",
+  "SFFlagRenderMeshOptimizeVertexBuffer": "true"
 }
