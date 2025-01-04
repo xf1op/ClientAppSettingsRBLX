@@ -105,5 +105,6 @@
   "FFlagDebugGraphicsPreferD3D11": "true",
   "FFlagRenderDebugCheckThreading2": "true",
   "DFFlagRakNetUseSlidingWindow4": "true",
-  "FIntVoiceChatVolumeThousandths": "225"
+  "FIntVoiceChatVolumeThousandths": "225",
+  "FIntVoiceChatRollOffMaxDistance": "100"
 }

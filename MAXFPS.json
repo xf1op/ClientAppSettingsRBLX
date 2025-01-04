@@ -155,5 +155,6 @@
   "FFlagVoxelGridFixStreamingRegions": "true",
   "DFIntSimCSGClosedVoxelMaxCount": "0",
   "FFlagGpuGeometryManagerArm4VertexShading2": "false",
-  "FIntVoiceChatVolumeThousandths": "225"
+  "FIntVoiceChatVolumeThousandths": "225",
+  "FIntVoiceChatRollOffMaxDistance": "100"
 } 
