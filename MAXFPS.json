@@ -149,5 +149,10 @@
   "DFIntS2PhysicsSenderRate": "60",
   "DFFlagRakNetUseSlidingWindow4": "true",
   "DFFlagOptimizePartsInPart": "true",
-  "SFFlagRenderMeshOptimizeVertexBuffer": "true"
-}
+  "DFFlagMeshCompression": "true",
+  "FFlagDebugRenderingSetDeterministic": "true",
+  "FFlagRenderGpuTextureCompressor": "true",
+  "FFlagVoxelGridFixStreamingRegions": "true",
+  "DFIntSimCSGClosedVoxelMaxCount": "0",
+  "FFlagGpuGeometryManagerArm4VertexShading2": "false"
+} 
