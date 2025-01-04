@@ -45,5 +45,6 @@
   "FLogWindowsLuaApp": "0",
   "FFlagRenderDebugCheckThreading2": "true",
   "FFlagDebugCheckRenderThreading": "true",
-  "DFFlagRakNetUseSlidingWindow4": "true"
+  "DFFlagRakNetUseSlidingWindow4": "true",
+  "FIntVoiceChatVolumeThousandths": "175"
 }
