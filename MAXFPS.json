@@ -26,8 +26,8 @@
   "FFlagClientToastNotificationsEnabled": "False",
   "FFlagUserHideCharacterParticlesInFirstPerson": "True",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-  "DFIntNumAssetsMaxToPreload": "15000",
-  "DFIntAssetPreloading": "15000",
+  "DFIntNumAssetsMaxToPreload": "-1",
+  "DFIntAssetPreloading": "-1",
   "FFlagAssetPreloadingIXP": "True",
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
   "FFlagChatTranslationEnableSystemMessage": "False",
@@ -142,7 +142,6 @@
   "DFIntAnimationLodFacsDistanceMin": "0",
   "DFIntAnimationLodFacsDistanceMax": "0",
   "DFIntAnimationLodFacsVisibilityDenominator": "0",
-  "DFIntS2PhysicsSenderRate": "60",
   "DFFlagRakNetUseSlidingWindow4": "true",
   "DFFlagOptimizePartsInPart": "true",
   "DFFlagMeshCompression": "true",
@@ -158,5 +157,8 @@
   "FFlagShaderLightingRefactor": "false",
   "FIntRenderShaderLoadAnalyticsHundredthPercent": "0",
   "FFlagSimCompressAeroMesh": "true",
-  "DFIntNetworkSchemaCompressionRatio": "18"
+  "DFIntNetworkSchemaCompressionRatio": "27",
+  "DFIntHttpBatchApi_maxReqs": "32",
+  "DFIntHttpBatchApi_bgDelayMs": "1",
+  "DFFlagDataSenderRate": "1"
 } 

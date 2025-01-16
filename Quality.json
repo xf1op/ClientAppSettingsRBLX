@@ -106,5 +106,9 @@
   "FFlagRenderDebugCheckThreading2": "true",
   "DFFlagRakNetUseSlidingWindow4": "true",
   "FIntVoiceChatVolumeThousandths": "225",
-  "FIntVoiceChatRollOffMaxDistance": "100"
+  "FIntVoiceChatRollOffMaxDistance": "100",
+  "DFIntNetworkSchemaCompressionRatio": "27",
+  "DFIntHttpBatchApi_maxReqs": "32",
+  "DFIntHttpBatchApi_bgDelayMs": "1",
+  "DFFlagDataSenderRate": "1"
 }
