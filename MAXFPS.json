@@ -159,5 +159,8 @@
   "DFIntNetworkSchemaCompressionRatio": "27",
   "DFIntHttpBatchApi_maxReqs": "32",
   "DFIntHttpBatchApi_bgDelayMs": "1",
-  "DFFlagDataSenderRate": "1"
+  "DFFlagDataSenderRate": "1",
+  "FFlagDebugFRMOptionalMSAALevelOverride": "0",
+  "FFlagMaquettesMinMSAALevel": "0",
+  "FFlagMaquettesHighMSAALevel": "0"
 } 
