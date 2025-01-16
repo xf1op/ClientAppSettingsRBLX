@@ -110,7 +110,7 @@
   "DFIntNetworkSchemaCompressionRatio": "27",
   "DFIntHttpBatchApi_maxReqs": "32",
   "DFIntHttpBatchApi_bgDelayMs": "1",
-  "DFFlagDataSenderRate": "1",
+  "DFIntDataSenderRate": "1",
   "FStringTencentAuthPath": "null",
   "FFlagRenderShadowIntensity": "50",
   "FFlagRenderShadowmapBias": "50"
