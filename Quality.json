@@ -1,6 +1,6 @@
 {
-  "DFStringCrashUploadToBacktraceBaseUrl": "about:blank",
-  "DFStringCrashUploadToBacktraceWindowsPlayerToken": "about:blank",
+  "DFStringCrashUploadToBacktraceBaseUrl": "null",
+  "DFStringCrashUploadToBacktraceWindowsPlayerToken": "null",
   "DFIntCrashUploadToBacktracePercentage": "0",
   "FIntRobloxGuiBlurIntensity": "0",
   "VideoPreRollWaitTimeSeconds": "0",
@@ -16,8 +16,8 @@
   "FFlagClientToastNotificationsEnabled": "False",
   "FFlagUserHideCharacterParticlesInFirstPerson": "True",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-  "DFIntNumAssetsMaxToPreload": "15000",
-  "DFIntAssetPreloading": "15000",
+  "DFIntNumAssetsMaxToPreload": "-1",
+  "DFIntAssetPreloading": "-1",
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
   "DFFlagUseVisBugChecks": "True",
   "FFlagEnableVisBugChecks27": "True",
@@ -57,7 +57,7 @@
   "FFlagAccessoryAdjustmentEnabled3": "True",
   "FFlagAXSearchLandingPageIXPEnabled4": "False",
   "FFlagDebugForceFutureIsBrightPhase3": "true",
-  "FFlagRenderUnifiedLighting10": "true",
+  "FFlagRenderUnifiedLighting": "false",
   "DFLogHttpTrace": "0",
   "DFLogHttpTraceError": "0",
   "DFLogHttpTraceLight": "0",
@@ -110,5 +110,8 @@
   "DFIntNetworkSchemaCompressionRatio": "27",
   "DFIntHttpBatchApi_maxReqs": "32",
   "DFIntHttpBatchApi_bgDelayMs": "1",
-  "DFFlagDataSenderRate": "1"
+  "DFFlagDataSenderRate": "1",
+  "FStringTencentAuthPath": "null",
+  "FFlagRenderShadowIntensity": "50",
+  "FFlagRenderShadowmapBias": "50"
 }
