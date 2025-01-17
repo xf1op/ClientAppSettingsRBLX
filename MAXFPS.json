@@ -162,5 +162,6 @@
   "DFIntDataSenderRate": "1",
   "FFlagDebugFRMOptionalMSAALevelOverride": "0",
   "FFlagMaquettesMinMSAALevel": "0",
-  "FFlagMaquettesHighMSAALevel": "0"
+  "FFlagMaquettesHighMSAALevel": "0",
+  "FIntNewDevConsoleMaxHttpCount": "0"
 } 
