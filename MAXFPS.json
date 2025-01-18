@@ -66,7 +66,7 @@
   "FFlagAdServiceEnabled": "False",
   "DFIntConnectionMTUSize": "1472",
   "FFlagEnableQuickGameLaunch": "True",
-  "DFIntMaxActiveAnimationTracks": "96",
+  "DFIntMaxActiveAnimationTracks": "64",
   "FFlagGraphicsTextureCopy": "True",
   "DFFlagDebugRenderForceTechnologyVoxel": "true",
   "DFFlagDebugSkipMeshVoxelizer": "true",
