@@ -156,7 +156,7 @@
   "FFlagShaderLightingRefactor": "false",
   "FIntRenderShaderLoadAnalyticsHundredthPercent": "0",
   "FFlagSimCompressAeroMesh": "true",
-  "DFIntNetworkSchemaCompressionRatio": "27",
+  "DFIntNetworkSchemaCompressionRatio": "20",
   "DFIntHttpBatchApi_maxReqs": "32",
   "DFIntHttpBatchApi_bgDelayMs": "1",
   "DFIntDataSenderRate": "1",
