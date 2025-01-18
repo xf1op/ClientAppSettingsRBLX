@@ -164,4 +164,8 @@
   "FFlagMaquettesMinMSAALevel": "0",
   "FFlagMaquettesHighMSAALevel": "0",
   "FIntNewDevConsoleMaxHttpCount": "0"
+  "FFlagEnableVisBugChecks": "true",
+  "FFlagEnableVisBugChecks27": "true",
+  "FFlagEnableVisBugChecks28": "true",
+  "DFFlagUseVisBugChecks": "true"
 } 
