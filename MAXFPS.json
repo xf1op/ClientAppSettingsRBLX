@@ -157,7 +157,7 @@
   "FIntRenderShaderLoadAnalyticsHundredthPercent": "0",
   "FFlagSimCompressAeroMesh": "true",
   "DFIntNetworkSchemaCompressionRatio": "20",
-  "DFIntHttpBatchApi_maxReqs": "32",
+  "DFIntHttpBatchApi_maxReqs": "64",
   "DFIntHttpBatchApi_bgDelayMs": "1",
   "DFIntDataSenderRate": "1",
   "FFlagDebugFRMOptionalMSAALevelOverride": "0",
@@ -169,9 +169,13 @@
   "FFlagEnableVisBugChecks28": "true",
   "DFFlagUseVisBugChecks": "true",
   "FFlagVisBugChecksThreadYield": "true",
-  "FIntEnableVisBugChecksHundredthPercent": "1000",
+  "FIntEnableVisBugChecksHundredthPercent": "100",
   "FFlagRenderCBRefactor": "true",
   "DFFlagSimOptimizeSetSize": "true",
-  "FIntDirectionalAttenuationMaxPoints": "200",
-  "FFlagFRMRefactor": "false"
+  "FIntDirectionalAttenuationMaxPoints": "50",
+  "FFlagFRMRefactor": "false",
+  "DFIntDataSenderMaxBandwidthBps": "9999999999",
+  "FIntRakNetResendBufferArrayLength": "128",
+  "DFIntRakNetResendRttMultiple": "1",
+  "DFIntRaknetBandwidthPingSendEveryXSeconds": "1"
 } 
