@@ -24,7 +24,6 @@
   "DFLogKeyRing": "0",
   "DFLogMegaReplicatorLogDisconnectCleanUpLog": "0",
   "DFLogTrackerAnimationStreamSourceTrace": "0",
-  "DFLogVoiceChatRequestTrace": "0",
   "FLogCrashReportLog": "0",
   "FLogAudio": "0",
   "FLogClientRunInfo": "0",
@@ -39,13 +38,14 @@
   "FLogSurfaceController": "0",
   "FLogUGCGameController": "0",
   "FLogVIPTeleport": "0",
-  "FLogVoiceChatLogs": "0",
   "FLogWarning": "0",
   "FLogWebRTC": "0",
   "FLogWindowsLuaApp": "0",
   "FFlagRenderDebugCheckThreading2": "true",
   "FFlagDebugCheckRenderThreading": "true",
   "DFFlagRakNetUseSlidingWindow4": "true",
-  "FIntVoiceChatVolumeThousandths": "225",
-  "FIntVoiceChatRollOffMaxDistance": "100"
+  "DFLogVoiceChatRequestTrace": "0",
+  "FLogVoiceChatLogs": "0",
+  "DFIntVoiceChatVolumeThousandths": "1500",
+  "DFIntVoiceChatRollOffMaxDistance": "100"
 }
