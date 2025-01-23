@@ -177,5 +177,6 @@
   "DFIntDataSenderMaxBandwidthBps": "9999999999",
   "FIntRakNetResendBufferArrayLength": "128",
   "DFIntRakNetResendRttMultiple": "1",
-  "DFIntRaknetBandwidthPingSendEveryXSeconds": "1"
+  "DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
+  "DFFlagCleanOldCSGData": "true"
 } 

@@ -112,5 +112,6 @@
   "DFIntDataSenderRate": "1",
   "FStringTencentAuthPath": "null",
   "FFlagRenderShadowIntensity": "50",
-  "FFlagRenderShadowmapBias": "50"
+  "FFlagRenderShadowmapBias": "50",
+  "DFFlagCleanOldCSGData": "true"
 }

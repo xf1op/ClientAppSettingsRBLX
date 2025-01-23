@@ -47,5 +47,6 @@
   "DFLogVoiceChatRequestTrace": "0",
   "FLogVoiceChatLogs": "0",
   "DFIntVoiceChatVolumeThousandths": "1500",
-  "DFIntVoiceChatRollOffMaxDistance": "100"
+  "DFIntVoiceChatRollOffMaxDistance": "100",
+  "DFFlagCleanOldCSGData": "true"
 }
