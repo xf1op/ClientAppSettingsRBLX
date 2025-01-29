@@ -159,7 +159,7 @@
   "DFIntNetworkSchemaCompressionRatio": "20",
   "DFIntHttpBatchApi_maxReqs": "64",
   "DFIntHttpBatchApi_bgDelayMs": "1",
-  "DFIntDataSenderRate": "1",
+  "DFIntDataSenderRate": "240",
   "FFlagDebugFRMOptionalMSAALevelOverride": "0",
   "FFlagMaquettesMinMSAALevel": "0",
   "FFlagMaquettesHighMSAALevel": "0",
@@ -178,5 +178,19 @@
   "FIntRakNetResendBufferArrayLength": "128",
   "DFIntRakNetResendRttMultiple": "1",
   "DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
-  "DFFlagCleanOldCSGData": "true"
-} 
+  "DFFlagCleanOldCSGData": "true",
+  "FFlagRenderDynamicResolutionScale": "true",
+  "FFlagRenderDynamicResolutionScale11": "true",
+  "DFIntRuntimeConcurrency": "7",
+  "DFFlagAnimationThrottlingInertialization": "true",
+  "DFFlagDebugOverrideDPIScale": "False",
+  "DFFlagDisableDPIScale": "False",
+  "FFlagDebugLargeReplicatorDisableDelta": "true",
+  "FFlagDebugLargeReplicatorForceFullSend": "true",
+  "FFlagDebugLargeReplicatorEnabled": "true",
+  "FFlagDebugLargeReplicatorRead": "true",
+  "FFlagDebugLargeReplicatorWrite": "true",
+  "DFFlagPerformanceControlEnableMemoryProbing3": "true",
+  "FFlagDebugForceGenerateHSR": "true",
+  "FStringTencentAuthPath": "null"
+}

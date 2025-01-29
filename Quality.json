@@ -106,12 +106,13 @@
   "FLogVoiceChatLogs": "0",
   "DFIntVoiceChatVolumeThousandths": "1500",
   "DFIntVoiceChatRollOffMaxDistance": "100",
-  "DFIntNetworkSchemaCompressionRatio": "27",
+  "DFIntNetworkSchemaCompressionRatio": "20",
   "DFIntHttpBatchApi_maxReqs": "32",
   "DFIntHttpBatchApi_bgDelayMs": "1",
-  "DFIntDataSenderRate": "1",
+  "DFIntDataSenderRate": "240",
   "FStringTencentAuthPath": "null",
   "FFlagRenderShadowIntensity": "50",
   "FFlagRenderShadowmapBias": "50",
+  "DFIntDataSenderMaxBandwidthBps": "9999999999",
   "DFFlagCleanOldCSGData": "true"
 }
