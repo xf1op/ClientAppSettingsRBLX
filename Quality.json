@@ -110,9 +110,20 @@
   "DFIntHttpBatchApi_maxReqs": "32",
   "DFIntHttpBatchApi_bgDelayMs": "1",
   "DFIntDataSenderRate": "240",
-  "FStringTencentAuthPath": "null",
   "FFlagRenderShadowIntensity": "50",
   "FFlagRenderShadowmapBias": "50",
-  "DFIntDataSenderMaxBandwidthBps": "9999999999",
-  "DFFlagCleanOldCSGData": "true"
+  "DFIntDataSenderMaxBandwidthBps": "99999999999",
+  "DFFlagCleanOldCSGData": "true",
+  "FFlagRenderDynamicResolutionScale10": "true",
+  "DFIntRuntimeConcurrency": "7",
+  "FFlagDebugLargeReplicatorDisableDelta": "true",
+  "FFlagDebugLargeReplicatorForceFullSend": "true",
+  "FFlagDebugLargeReplicatorEnabled": "true",
+  "FFlagDebugLargeReplicatorRead": "true",
+  "FFlagDebugLargeReplicatorWrite": "true",
+  "DFFlagPerformanceControlEnableMemoryProbing3": "true",
+  "FFlagDebugForceGenerateHSR": "true",
+  "FStringTencentAuthPath": "null",
+  "FFlagLuauCodegen": "true",
+  "CaptureCountersIntervalInMinutes": "0"
 }
