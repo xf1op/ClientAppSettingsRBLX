@@ -159,7 +159,6 @@
   "DFIntNetworkSchemaCompressionRatio": "20",
   "DFIntHttpBatchApi_maxReqs": "64",
   "DFIntHttpBatchApi_bgDelayMs": "1",
-  "DFIntDataSenderRate": "240",
   "FFlagDebugFRMOptionalMSAALevelOverride": "0",
   "FFlagMaquettesMinMSAALevel": "0",
   "FFlagMaquettesHighMSAALevel": "0",
@@ -174,7 +173,6 @@
   "DFFlagSimOptimizeSetSize": "true",
   "FIntDirectionalAttenuationMaxPoints": "25",
   "FFlagFRMRefactor": "false",
-  "DFIntDataSenderMaxBandwidthBps": "99999999999",
   "FIntRakNetResendBufferArrayLength": "128",
   "DFIntRakNetResendRttMultiple": "1",
   "DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
@@ -201,5 +199,11 @@
   "FIntCAP1209DataSharingTOSVersion": "0",
   "FIntCAP1544DataSharingUserRolloutPercentage": "0",
   "FFlagRenderCBRefactor2": "true",
-  "FStringGetPlayerImageDefaultTimeout": "1"
+  "FStringGetPlayerImageDefaultTimeout": "1",
+  "DFIntDataSenderMaxBandwidthBps": "2147483647",
+  "DFIntDataSenderMaxBandwidthBpsMultiplier": "2147483647",
+  "DFIntPhysicsSenderMaxBandwidthBps": "2147483647",
+  "DFIntPhysicsSenderMaxBandwidthBpsScaling": "2147483647",
+  "DFIntDataSenderRate": "2147483647",
+  "DFIntS2PhysicsSenderRate": "2147483647"
 }
