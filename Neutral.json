@@ -1,4 +1,9 @@
 {
+  "FFlagCAP1209EnableDataSharingUI4": "false",
+  "FFlagCAP1544UseNewDataSharingRollout": "false",
+  "FIntCAP1209DataSharingRolloutPercentage": "0",
+  "FIntCAP1209DataSharingTOSVersion": "0",
+  "FIntCAP1544DataSharingUserRolloutPercentage": "0",
   "FFlagEnableChromeAnalytics": "False",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
   "FFlagLuaAppEnableFoundationColors7": "True",
@@ -48,5 +53,6 @@
   "FLogVoiceChatLogs": "0",
   "DFIntVoiceChatVolumeThousandths": "1500",
   "DFIntVoiceChatRollOffMaxDistance": "100",
-  "DFFlagCleanOldCSGData": "true"
+  "DFFlagCleanOldCSGData": "true",
+  "FStringGetPlayerImageDefaultTimeout": "1"
 }

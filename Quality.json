@@ -125,5 +125,11 @@
   "FFlagDebugForceGenerateHSR": "true",
   "FStringTencentAuthPath": "null",
   "FFlagLuauCodegen": "true",
-  "CaptureCountersIntervalInMinutes": "0"
+  "CaptureCountersIntervalInMinutes": "0",
+  "FFlagCAP1209EnableDataSharingUI4": "false",
+  "FFlagCAP1544UseNewDataSharingRollout": "false",
+  "FIntCAP1209DataSharingRolloutPercentage": "0",
+  "FIntCAP1209DataSharingTOSVersion": "0",
+  "FIntCAP1544DataSharingUserRolloutPercentage": "0",
+  "FStringGetPlayerImageDefaultTimeout": "1"
 }
