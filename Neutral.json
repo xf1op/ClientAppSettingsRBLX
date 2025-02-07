@@ -6,7 +6,6 @@
   "FIntCAP1544DataSharingUserRolloutPercentage": "0",
   "FFlagEnableChromeAnalytics": "False",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-  "FFlagLuaAppEnableFoundationColors7": "True",
   "FIntGameGridFlexFeedItemTileNumPerFeed": "0",
   "DFFlagDebugDisableTelemetryAfterTest": "True",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
