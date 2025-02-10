@@ -1,4 +1,5 @@
 {
+  "FFlagGraphicsTextureCopy": "True",
   "DFFlagAudioEnableVolumetricPanningForMeshes": "True",
   "DFFlagAudioEnableVolumetricPanningForPolys": "True",
   "DFFlagAudioUseVolumetricPanning": "True",
