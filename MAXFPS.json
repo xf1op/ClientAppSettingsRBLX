@@ -99,7 +99,7 @@
   "FFlagVoiceBetaBadge": "False",
   "FIntDebugForceMSAASamples": "0",
   "FIntDebugFRMOptionalMSAALevelOverride": "0",
-  "FIntDirectionalAttenuationMaxPoints": "1",
+  "FIntDirectionalAttenuationMaxPoints": "0",
   "FIntFRMMaxGrassDistance": "0",
   "FIntFRMMinGrassDistance": "0",
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
