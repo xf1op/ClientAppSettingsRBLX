@@ -1,7 +1,4 @@
 {
-  "DFFlagAudioEnableVolumetricPanningForMeshes": "True",
-  "DFFlagAudioEnableVolumetricPanningForPolys": "True",
-  "DFFlagAudioUseVolumetricPanning": "True",
   "DFFlagClampIncomingReplicationLag": "True",
   "DFFlagDebugPerfMode": "True",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
@@ -69,7 +66,6 @@
   "FFlagDebugSSAOForce": "False",
   "FFlagDisableFeedbackSoothsayerCheck": "False",
   "FFlagDisablePostFx": "True",
-  "FFlagEnableAudioPannerFiltering": "True",
   "FFlagEnableInGameMenuChrome": "True",
   "FFlagEnableInGameMenuChromeABTest4": "True",
   "FFlagEnableInGameMenuDurationLogger": "False",
